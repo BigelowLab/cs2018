@@ -12,6 +12,8 @@ Bigelow Laboratory for Ocean Sciences, located in East Boothbay, Maine, seeks a 
 ## Other information
 The Bigelow summer internship program offers students the opportunity to live in Boothbay and work in a dynamic, cutting-edge research environment. The program runs for 10 weeks from **May 29th—August 3th**.
 
+Interns will be provided with housing (at our new [Residence Hall](https://www.bigelow.org/about/residence-hall.html)) and a stipend.
+
 ## How to apply
 
 Send an email to Kevin (kguay@bigelow.org) by **Sunday, November 12th** with:
@@ -19,7 +21,7 @@ Send an email to Kevin (kguay@bigelow.org) by **Sunday, November 12th** with:
 1. **Cover letter** (a brief statement describing why you would be an excellent fit for this internship)
 2. **Resume**
 3. Link to a **GitHub repo** with a project that you have worked on (if a group project, you must have contributed 40% or more of the code)
-    - If you didn't use GitHub for the project, that's okay. Just create a new repository and add the code and instructions to execute.
+	- If you didn't use GitHub for the project, that's okay. Just create a new repository and add the code and instructions to execute.
     - This can be a school project, but should be something that you at least somewhat conceptualized and implemented on your own (e.g. not a step-by-step tutorial project).
 
 ## Application process
