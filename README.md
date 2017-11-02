@@ -12,7 +12,7 @@ Bigelow Laboratory for Ocean Sciences, located in East Boothbay, Maine, seeks a 
 ## Other information
 The Bigelow summer internship program offers students the opportunity to live in Boothbay and work in a dynamic, cutting-edge research environment. The program runs for 10 weeks from **May 29th—August 3th**.
 
-Interns will be provided with housing (at our new [Residence Hall](https://www.bigelow.org/about/residence-hall.html)) and a stipend.
+Interns will be provided with a **stipend** and **housing** (at our new [Residence Hall](https://www.bigelow.org/about/residence-hall.html)).
 
 ## How to apply
 
