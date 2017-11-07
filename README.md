@@ -1,5 +1,7 @@
 # Bigelow Computer Science Intern 2018
 
+## Applications due November 12th!
+
 ## Overview
 Bigelow Laboratory for Ocean Sciences, located in East Boothbay, Maine, seeks a summer intern with a strong background (coursework, experience, etc.) in computer science, interested in applying their skills to real-world, science-related problems.
 
