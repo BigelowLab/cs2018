@@ -1,6 +1,6 @@
-# Bigelow Computer Science Intern 2018
+# Bigelow Computer Science Intern 2019
 
-## Applications due November 12th!
+## Applications due March 1!
 
 ## Overview
 Bigelow Laboratory for Ocean Sciences, located in East Boothbay, Maine, seeks a summer intern with a strong background (coursework, experience, etc.) in computer science, interested in applying their skills to real-world, science-related problems.
@@ -12,13 +12,13 @@ Bigelow Laboratory for Ocean Sciences, located in East Boothbay, Maine, seeks a 
 - Create a website/webapp to organize, visualize, and distribute data collected from sensors all over Maine
 
 ## Other information
-The Bigelow summer internship program offers students the opportunity to live in Boothbay and work in a dynamic, cutting-edge research environment. The program runs for 10 weeks from **May 29th—August 3th**.
+The Bigelow summer internship program offers students the opportunity to live in Boothbay and work in a dynamic, cutting-edge research environment. The program runs for 10 weeks from **May 28th—August 2th**.
 
 Interns will be provided with a **stipend** and **housing** (at our new [Residence Hall](https://www.bigelow.org/about/residence-hall.html)).
 
 ## How to apply
 
-Send an email to Kevin (kguay@bigelow.org) by **Sunday, November 12th** with:
+Send an email to Kevin (kguay@bigelow.org) by **March 1** with:
 
 1. **Cover letter** (a brief statement describing why you would be an excellent fit for this internship)
 2. **Resume**
@@ -28,10 +28,10 @@ Send an email to Kevin (kguay@bigelow.org) by **Sunday, November 12th** with:
 
 ## Application process
 
-1. Submit application by Sunday, **November 12th**
-2. Application review: November 13-14
-3. Google Hangout interviews for finalists: November 17-21
-4. Final decision emails: by **November 24th**
+1. Submit application by Friday, **March 1**
+2. Application review: March 4-6
+3. Phone interviews for finalists: March 7-13
+4. Final decision emails: by **March 15**
 
 ## FAQ
 **Can international students with student/work visas apply?**  
