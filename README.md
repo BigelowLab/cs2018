@@ -18,7 +18,7 @@ Interns will be provided with a **stipend** and **housing** (at our new [Residen
 
 ## How to apply
 
-Send an email to Kevin (kguay@bigelow.org) by **March 1** with:
+Please apple here: https://bigelow.freshteam.com/jobs/Cw4kyPPA1MlW/computer-science-intern-summer-2019
 
 1. **Cover letter** (a brief statement describing why you would be an excellent fit for this internship)
 2. **Resume**
