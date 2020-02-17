@@ -1,6 +1,6 @@
 # Bigelow Computer Science Intern 2020
 
-## Applications due March 1!
+## Applications due March 2!
 
 ## Overview
 Bigelow Laboratory for Ocean Sciences, located in East Boothbay, Maine, seeks a summer intern with a strong background (coursework, experience, etc.) in computer science, interested in applying their skills in a fast-paced research setting.
@@ -23,7 +23,7 @@ This is a system administration role that requires software development skills a
 - Ability to work well independently
 
 ## Other information
-The Bigelow summer internship program offers students the opportunity to live in Boothbay and work in a dynamic, cutting-edge research environment. The program runs for 10 weeks from **May 28th—August 2th**.
+The Bigelow summer internship program offers students the opportunity to live in Boothbay and work in a dynamic, cutting-edge research environment. The program runs for 10 weeks from **May 26th—August 1st**.
 
 Interns will be provided with a **stipend** and **housing** (at our new [Residence Hall](https://www.bigelow.org/about/residence-hall.html)).
 
@@ -39,7 +39,7 @@ Please email applications to Kevin Guay, kguay@bigelow.org, with the subject "20
 
 ## Application process
 
-1. Submit application by Sunday, **March 1**
+1. Submit application by Sunday, **March 2**
 2. Application review: March 4-6
 3. Phone interviews for finalists: March 9-12
 4. Final decision emails: by **March 18**
