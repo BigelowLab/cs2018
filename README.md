@@ -15,7 +15,7 @@ Bigelow has a 470 core and ~4TB memory high performance computing cluster. In th
 - tweak the PBS pro configuration to fit our needs
 - create and maintain HPC documentation
 
-This is a system administraion role that requires software development skills and experience with linux.
+This is a system administraion role that requires software development skills and experience with linux. You can read more about our HPC environment here: https://charlie.bigelow.org/
 
 ## Recommended skills/experience
 - Scripting language (e.g. bash, R, python)
