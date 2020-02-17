@@ -7,8 +7,8 @@ Bigelow Laboratory for Ocean Sciences, located in East Boothbay, Maine, seeks a 
 
 *\* This is a living document and will be updated with changes and clarifications (both in-line and in the FAQ section).*
 
-## HPCC Project
-Bigelow has a ### core and ### memory high performance computing cluster. In the past few years, the demand for our HPC has increased and so have our avialable computing resources. This year's intern will improve our use of Ansible for HPC management, help science staff utilize the HPC, and create and maintain HPC documentation. This is more of a system administraion role that requires familarity with programming and linux environments. 
+## High performance computing lead
+Bigelow has a 470 core and ~4TB memory high performance computing cluster. In the past few years, the demand for our HPC has increased and so have our avialable computing resources. This year's intern will improve our use of Ansible for HPC management, help science staff utilize the HPC, and create and maintain HPC documentation. This is more of a system administraion role that requires software development skills and experience with linux. 
 
 ## Recommended skills/experience
 - Scripting language (e.g. bash, R, python)
@@ -22,7 +22,7 @@ Interns will be provided with a **stipend** and **housing** (at our new [Residen
 
 ## How to apply
 
-Please apple here: https://bigelow.freshteam.com/jobs/Cw4kyPPA1MlW/computer-science-intern-summer-2019
+Please email applications to Kevin Guay, kguay@bigelow.org, with the subject "2020 Internship".
 
 1. **Cover letter** (a brief statement describing why you would be an excellent fit for this internship)
 2. **Resume**
@@ -32,10 +32,10 @@ Please apple here: https://bigelow.freshteam.com/jobs/Cw4kyPPA1MlW/computer-scie
 
 ## Application process
 
-1. Submit application by Friday, **March 1**
+1. Submit application by Sunday, **March 1**
 2. Application review: March 4-6
-3. Phone interviews for finalists: March 7-13
-4. Final decision emails: by **March 15**
+3. Phone interviews for finalists: March 9-12
+4. Final decision emails: by **March 18**
 
 ## FAQ
 **Can international students with student/work visas apply?**  
@@ -43,9 +43,6 @@ Please apple here: https://bigelow.freshteam.com/jobs/Cw4kyPPA1MlW/computer-scie
 
 **Is this part of the REU program?**  
 *No. Durring the summer, Bigelow hosts both [REU](https://www.bigelow.org/education/reu/) students and summer interns. There are activities that are mandatory for REU students, but not for interns. For example, REU students are required to complete a scientific research project and present their findings in a symposium at the end of the program. While CS interns are welcome to participate in any REU activities, it is not required.*
-
-**I see that the potential projects list webapps, do I need to have experience developing web apps?**  
-*No, while experience working with web app frameworks (e.g. Python's Flask) is a bonus, it is not a requirement. In my experience, you learn over 80% of what you need on the job. Of course, you need a solid set of programming (and other) skills in order to quickly pick up the specific technologies that we (or any company) use.*
 
 ## Other questions?
 Please don't hesitate to reach out to Kevin (kguay@bigelow.org) if you have any questions/concerns about the internship or application process. *If you ask a question that others might have, I will post the Q/A in the FAQ section.*
