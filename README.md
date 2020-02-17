@@ -1,15 +1,19 @@
-# Bigelow Computer Science Intern 2019
+# Bigelow Computer Science Intern 2020
 
 ## Applications due March 1!
 
 ## Overview
-Bigelow Laboratory for Ocean Sciences, located in East Boothbay, Maine, seeks a summer intern with a strong background (coursework, experience, etc.) in computer science, interested in applying their skills to real-world, science-related problems.
+Bigelow Laboratory for Ocean Sciences, located in East Boothbay, Maine, seeks a summer intern with a strong background (coursework, experience, etc.) in computer science, interested in applying their skills in a fast-paced research setting.
 
 *\* This is a living document and will be updated with changes and clarifications (both in-line and in the FAQ section).*
 
-## Possible projects
-- Contribute to a website/webapp for forecasting animal presence based on citizen science observations and climate (e.g. ticks, jellyfish, etc.)
-- Create a website/webapp to organize, visualize, and distribute data collected from sensors all over Maine
+## HPCC Project
+Bigelow has a ### core and ### memory high performance computing cluster. In the past few years, the demand for our HPC has increased and so have our avialable computing resources. This year's intern will improve our use of Ansible for HPC management, help science staff utilize the HPC, and create and maintain HPC documentation. This is more of a system administraion role that requires familarity with programming and linux environments. 
+
+## Recommended skills/experience
+- Scripting language (e.g. bash, R, python)
+- Linux (preferably RedHat/CentOS/Fedora)
+- Ability to work well independantly
 
 ## Other information
 The Bigelow summer internship program offers students the opportunity to live in Boothbay and work in a dynamic, cutting-edge research environment. The program runs for 10 weeks from **May 28th—August 2th**.
