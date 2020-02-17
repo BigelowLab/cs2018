@@ -8,7 +8,14 @@ Bigelow Laboratory for Ocean Sciences, located in East Boothbay, Maine, seeks a 
 *\* This is a living document and will be updated with changes and clarifications (both in-line and in the FAQ section).*
 
 ## High performance computing lead
-Bigelow has a 470 core and ~4TB memory high performance computing cluster. In the past few years, the demand for our HPC has increased and so have our avialable computing resources. This year's intern will improve our use of Ansible for HPC management, help science staff utilize the HPC, and create and maintain HPC documentation. This is more of a system administraion role that requires software development skills and experience with linux. 
+Bigelow has a 470 core and ~4TB memory high performance computing cluster. In the past few years, the demand for our HPC has increased and so have our avialable computing resources. This year's intern will:
+- improve our use of Ansible for HPC management
+- help science staff utilize the HPC
+- write custom utilities to help manage the HPC environment
+- tweak the PBS pro configuration to fit our needs
+- create and maintain HPC documentation
+
+This is more of a system administraion role that requires software development skills and experience with linux.
 
 ## Recommended skills/experience
 - Scripting language (e.g. bash, R, python)
