@@ -1,6 +1,6 @@
-# Bigelow Computer Science Intern 2020
+# Bigelow Computer Science Intern 2021
 
-## Applications due March 2!
+## Applications due February 14!
 
 ## Overview
 Bigelow Laboratory for Ocean Sciences, located in East Boothbay, Maine, seeks a summer intern with a strong background (coursework, experience, etc.) in computer science, interested in applying their skills in a fast-paced research setting.
@@ -29,7 +29,7 @@ Interns will be provided with a **stipend** and **housing** (at our new [Residen
 
 ## How to apply
 
-Please email applications to Kevin Guay, kguay@bigelow.org, with the subject "2020 Internship".
+Please email applications to Kevin Guay, kguay@bigelow.org, with the subject "2021 Internship".
 
 1. **Cover letter** (a brief statement describing why you would be an excellent fit for this internship)
 2. **Resume**
@@ -37,16 +37,9 @@ Please email applications to Kevin Guay, kguay@bigelow.org, with the subject "20
 	- If you didn't use GitHub for the project, that's okay. Just create a new repository and add the code and instructions to execute.
     - This can be a school project, but should be something that you at least somewhat conceptualized and implemented on your own (e.g. not a step-by-step tutorial project).
 
-## Application process
-
-1. Submit application by Sunday, **March 2**
-2. Application review: March 4-6
-3. Phone interviews for finalists: March 9-12
-4. Final decision emails: by **March 18**
-
 ## FAQ
 **Can international students with student/work visas apply?**  
-*Absolutely!*
+*Absolutely*
 
 **Is this part of the REU program?**  
 *No. During the summer, Bigelow hosts both [REU](https://www.bigelow.org/education/reu/) students and summer interns. There are activities that are mandatory for REU students, but not for interns. For example, REU students are required to complete a scientific research project and present their findings in a symposium at the end of the program. While CS interns are welcome to participate in any REU activities, it is not required.*
