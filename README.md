@@ -1,4 +1,4 @@
-# Bigelow Computer Science [Remote] Intern 2021
+# Bigelow Computer Science [Remote] Internship 2021
 
 ## Applications due February 14, 2021!
 
